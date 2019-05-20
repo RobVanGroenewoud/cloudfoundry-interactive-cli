@@ -1,6 +1,6 @@
 {
   "name": "cloudfoundry-interactive-cli",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Interactive CLI for Cloud Foundry",
   "main": "cli.js",
   "bin": {
