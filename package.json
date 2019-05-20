@@ -1,0 +1,25 @@
+{
+  "name": "cloudfoundry-interactive-cli",
+  "version": "0.0.0",
+  "description": "Interactive CLI for Cloud Foundry",
+  "main": "cli.js",
+  "bin": {
+    "cfi": "cli.js"
+  },
+  "scripts": {
+    "release": "np"
+  },
+  "repository": "RobVanGroenewoud/cloudfoundry-interactive-cli",
+  "author": "Rob van Groenewoud",
+  "license": "MIT",
+  "homepage": "https://github.com/RobVanGroenewoud/cloudfoundry-interactive-cli#readme",
+  "devDependencies": {
+    "np": "^5.0.2"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "clipboardy": "^2.0.0",
+    "execa": "^1.0.0",
+    "inquirer": "^6.3.1"
+  }
+}
