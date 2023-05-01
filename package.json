@@ -14,7 +14,7 @@
   "license": "MIT",
   "homepage": "https://github.com/RobVanGroenewoud/cloudfoundry-interactive-cli#readme",
   "devDependencies": {
-    "np": "^5.0.2"
+    "np": "^7.7.0"
   },
   "dependencies": {
     "chalk": "^2.4.2",
